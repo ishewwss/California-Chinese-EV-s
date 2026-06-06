@@ -188,3 +188,6 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+p {
+    line-height: 2; /* double spacing */
+}
